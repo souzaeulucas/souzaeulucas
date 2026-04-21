@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatgpt.com/s/m_69e7a7e842348191a7fbcc6d31904b01.jpg" width="100%" />
+  <img src="https://github.com/souzaeulucas/souzaeulucas/blob/main/ChatGPT%20Image%2021%20de%20abr.%20de%202026,%2013_41_35.png" width="100%" />
   
 </p>
 
