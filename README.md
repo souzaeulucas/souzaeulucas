@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM" width="100%" />
+  <img src="https://chatgpt.com/s/m_69e7a7e842348191a7fbcc6d31904b01" width="100%" />
   
 </p>
 
