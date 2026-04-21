@@ -48,6 +48,9 @@ Atuar na área de Tecnologia, desenvolvendo minhas habilidades técnicas e contr
 
 ---
 
+## 🔗 Acesse o projeto
+https://souzaeulucas.github.io/calculadora-js/
+
 ## 📫 Contato
 
 <p align="center">
