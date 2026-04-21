@@ -32,7 +32,12 @@ Sistema completo de gestão de pacientes desenvolvido para resolver um problema 
 - 💬 Integração com WhatsApp  
 - 📊 Dashboard com visão geral  
 
-🔗 https://clinicafacil.vercel.app/
+#### 🔗 https://clinicafacil.vercel.app/
+#### 🤖 Demonstração Rápida
+**Acesse agora:** [https://portfolio-clinicafacil.vercel.app](https://portfolio-clinicafacil.vercel.app)
+
+> [!IMPORTANT]
+> **DICA PARA RECRUTADORES**: No login, utilize o botão **"Acesso para Recrutadores"** para entrar instantaneamente com dados de demonstração já preenchidos e visualizar as métricas do sistema em funcionamento.
 
 ---
 
