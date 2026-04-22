@@ -41,6 +41,13 @@ Sistema completo de gestão de pacientes desenvolvido para resolver um problema 
 
 ---
 
+### 📝 To-Do Pro
+Aplicação de lista de tarefas com filtros, persistência de dados e manipulação de estado com JavaScript puro.
+
+🔗 https://souzaeulucas.github.io/todo-pro/
+
+---
+
 ### 🧮 Calculadora Web
 Projeto para prática de lógica de programação e manipulação de DOM.
 
