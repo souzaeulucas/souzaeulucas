@@ -81,6 +81,10 @@ Projeto para prática de lógica de programação e manipulação de DOM.
   <img src="https://github-profile-trophy.vercel.app/?username=souzaeulucas&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzaeulucas&theme=github-dark&hide_border=true"/>
+</p>
+
 ---
 
 ## 📌 Objetivo
