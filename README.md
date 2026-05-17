@@ -75,25 +75,10 @@ Projeto para prática de lógica de programação e manipulação de DOM.
 
 ---
 
-## 📊 Estatísticas
+## 🏆 Conquistas GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=souzaeulucas&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeulucas&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=souzaeulucas&theme=transparent&hide_border=true" 
-    height="170"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=souzaeulucas&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
