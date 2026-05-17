@@ -78,8 +78,9 @@ Projeto para prática de lógica de programação e manipulação de DOM.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=souzaeulucas&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeulucas&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=souzaeulucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeulucas&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
